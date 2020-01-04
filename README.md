@@ -54,6 +54,12 @@ This exists so that I don't have to start froms scratch each time I build a proj
 
 #### 1. Clone this repository, but name it anything but auth_boilerplate
 
+SWITCH TO THE WITH-OAUTH BRANCH
+
+```
+git checkout with-oauth
+```
+
 ```
 git clone <repo_link> <new_name>
 ```
